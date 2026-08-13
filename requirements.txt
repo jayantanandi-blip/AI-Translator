@@ -1,0 +1,10 @@
+streamlit>=1.22
+gTTS>=2.4.0
+pandas>=2.0
+PyPDF2>=3.0
+requests>=2.0
+openpyxl>=3.0
+python-dotenv>=1.0
+# The official Google Generative SDK on PyPI is published as `google-generativeai` (no hyphen).
+# If pip cannot find this package on your platform, remove or install it manually.
+google-generativeai>=0.2
