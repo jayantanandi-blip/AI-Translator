@@ -51,7 +51,7 @@ http://localhost:8501/
 - The app uses the Google Gemini API endpoint with an API key.
 
 ## How to Use
-1. Launch the application
+1. Launch the application with http://localhost:8501/
 2. Enter the API Key as generated with Gemini API Key
 3. Enter the text or Upload the file you want to translate
 4. Select the target language
